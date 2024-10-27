@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name ".stumbler")(type "KiCad")(uri "${STUMBLER_FOOTPRINT_DIR}/stumbler.kicad_sym")(options "")(descr ""))
+)
