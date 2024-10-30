@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.zip
+*bak
+fp-info-cache
+*-backups/
+**.DS_Store
+

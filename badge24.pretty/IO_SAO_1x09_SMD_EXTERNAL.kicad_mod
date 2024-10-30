@@ -1,0 +1,175 @@
+(footprint "IO_SAO_1x09_SMD_EXTERNAL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.025 -2.625 360)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "dab30ca4-d4d2-4081-8cbd-de1d99ce427a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Conn_01x09"
+		(at 0 12.49 360)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3aeee290-3395-4eec-aff2-12fc35f5f6dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ".stumbler:IO_SAO_1x09_SMD_EXTERNAL"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39652601-8fae-4bc0-b528-d20ea0ac97ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41c308e9-e04d-4579-9dff-efa473baed9b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39988354-ba40-4786-987e-9a1ab7b4b1bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 2.032 21.59)
+		(end 2.032 -1.143)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bd0d5f98-4c3e-45b3-b8f0-8065d4dcba72")
+	)
+	(fp_line
+		(start 2.032 -1.143)
+		(end -2 -1.155)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "65ea0559-b870-4818-bd42-bae6490d5e0d")
+	)
+	(fp_line
+		(start -2 21.59)
+		(end 2.032 21.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f60b927-6f7f-44fb-9d21-75eda11f7bf7")
+	)
+	(fp_line
+		(start -2 -1.155)
+		(end -2 21.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "97aa23ee-596a-4647-899e-917ec8f15e2d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "30e4ae98-83c7-49f7-a6dc-5ac78d44c941")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 0 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1004eaaa-6146-4653-bad1-93a216c1384d")
+	)
+	(pad "2" smd oval
+		(at 0 2.54 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c3704f90-69f7-4743-b0a9-477a9a3d57a6")
+	)
+	(pad "3" smd oval
+		(at 0 5.08 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "18ddf442-e830-4cdd-adf7-d0e1311f98f0")
+	)
+	(pad "4" smd oval
+		(at 0 7.62 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "cd8f8401-a6f7-4d96-b1b4-e8f505bbfbda")
+	)
+	(pad "5" smd oval
+		(at 0 10.16 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "58f33c3b-da83-47e7-a881-51965f0f5a0b")
+	)
+	(pad "6" smd oval
+		(at 0 12.7 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1a3eec6d-bd18-4fc2-8f7d-ad3f1daa7082")
+	)
+	(pad "7" smd oval
+		(at 0 15.24 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "74f715f0-7db4-49d2-a7ee-4a6bc13a9ef6")
+	)
+	(pad "8" smd oval
+		(at 0 17.78 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2682e005-cdc9-4847-9ab4-d00fb8c8e9ee")
+	)
+	(pad "9" smd oval
+		(at 0 20.32 180)
+		(size 3.81 1.5748)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "88a349b6-c9d3-40e9-957b-f37f8e1530fc")
+	)
+)

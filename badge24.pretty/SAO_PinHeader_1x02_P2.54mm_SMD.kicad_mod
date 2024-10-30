@@ -1,0 +1,225 @@
+(footprint "SAO_PinHeader_1x02_P2.54mm_SMD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x02 2.54mm single row")
+	(property "Reference" "REF**"
+		(at 0 -2.33 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "10837a07-80c0-4c96-abb8-49218546ff99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VEXT"
+		(at 0.635 6.985 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "522ceb25-0c5c-4270-ba14-669f1352a0b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ".stumbler:SAO_PinHeader_1x02_P2.54mm_SMD"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee697126-22eb-4a2d-accd-d1ee05d634ff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "024ddabf-9bf3-4a8e-8da2-b255e2b89c03")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9275ce4-eba9-4cb4-8d94-3c94120761ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.524 -1.524)
+		(end -1.524 5.334)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03dbc4c0-370d-4de2-9c55-56609e1840cf")
+	)
+	(fp_line
+		(start -1.524 -1.524)
+		(end 1.524 -1.524)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97ea7929-aa2b-4222-9d46-f28a04bf39a2")
+	)
+	(fp_line
+		(start -1.524 5.334)
+		(end 1.524 5.334)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc72a48b-6d01-43c1-8552-5ab1f711742a")
+	)
+	(fp_line
+		(start 1.524 -1.524)
+		(end 1.524 5.334)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "425d8fc6-4955-4fee-a17d-29345d54f65c")
+	)
+	(fp_line
+		(start -1.8 -1.8)
+		(end -1.8 5.588)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ec41918-e348-4727-9d45-9e13dfb6ecdf")
+	)
+	(fp_line
+		(start -1.8 5.588)
+		(end 1.8 5.588)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8aefeab-91dd-4a90-b796-c1fe62eb89c1")
+	)
+	(fp_line
+		(start 1.8 -1.8)
+		(end -1.8 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a373ba24-aba5-439e-8ecb-2f7347801abb")
+	)
+	(fp_line
+		(start 1.8 5.588)
+		(end 1.8 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4be66a9f-eed2-4778-b244-6f5d181dedc6")
+	)
+	(fp_line
+		(start -1.524 -0.381)
+		(end -0.381 -1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "239b1ab1-824e-4326-9843-81c2217e3a4e")
+	)
+	(fp_line
+		(start -1.524 5.334)
+		(end -1.524 -0.381)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2fa2e6a8-c3db-4ce8-af66-71776dacf238")
+	)
+	(fp_line
+		(start -0.381 -1.524)
+		(end 1.524 -1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3dc0cb81-92e0-44aa-bfeb-eeab97ded5aa")
+	)
+	(fp_line
+		(start 1.524 -1.524)
+		(end 1.524 5.334)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9588e649-cbd8-444f-9445-fd1acb4a1323")
+	)
+	(fp_line
+		(start 1.524 5.334)
+		(end -1.524 5.334)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1fe246e0-09e9-4940-a385-4b1df9d73d4c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.635 8.89 0)
+		(layer "F.Fab")
+		(uuid "3df26a24-ed67-44a3-8ee5-d4863760e257")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 0 180)
+		(size 2.54 2.54)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "15eaaebc-a49d-4fb0-8ea4-f635864e5b10")
+	)
+	(pad "2" smd oval
+		(at 0 3.81 180)
+		(size 2.54 2.54)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "bd72ccb0-93be-473e-bfa7-aeac7658e577")
+	)
+)
