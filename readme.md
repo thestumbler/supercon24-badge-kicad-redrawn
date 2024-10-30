@@ -1,7 +1,6 @@
 # Redrawing Hackaday Supercon 2024 Badge in Kicad
 
-![](images/badge24-front.png)
-![](images/badge24-back.png)
+![](images/badge24-renders.png)
 
 Making a KiCad version of the Supercon 2024 Badge.
 More remarks and possibly corrections to follow.
@@ -18,5 +17,4 @@ More remarks and possibly corrections to follow.
 * [Assembly BOM (XLSX)](badge24-original-and-petal-matrix-bom.xlsx)
 
 
-![](images/supercon8_square-populated_bright_4d8bc3.png)
-![](images/supercon8_badge_back_bright.png)
+![](images/original-renders.png)
