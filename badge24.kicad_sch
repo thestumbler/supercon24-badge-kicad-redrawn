@@ -10752,6 +10752,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 121.92 118.11)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ed2b92a-fc25-49ca-860c-85ada4d565b2")
+		(property "Sheetname" "ORIGINAL VOJA SCHEMATICS"
+			(at 121.92 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "badge24-original-voja.kicad_sch"
+			(at 121.92 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "badge24"
+				(path "/6f5575ee-d8e7-41b5-a202-c1cbb928830a"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

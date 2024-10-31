@@ -1,4 +1,4 @@
 (sym_lib_table
-  (version 8)
+  (version 7)
   (lib (name ".badge24")(type "KiCad")(uri "${KIPRJMOD}/badge24.kicad_sym")(options "")(descr ""))
 )
