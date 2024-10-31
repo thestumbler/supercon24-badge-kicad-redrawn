@@ -26,4 +26,4 @@ More remarks and possibly corrections to follow.
 * [Assembly BOM (XLSX)](badge24-original-and-petal-matrix-bom.xlsx)
 
 
-![](images/original-renders.png)
+![](images/original-photos.png)
