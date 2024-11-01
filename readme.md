@@ -3,7 +3,8 @@
 ![](images/badge24-renders.png)
 
 Making a KiCad version of the Supercon 2024 Badge.
-More remarks and possibly corrections to follow.
+See the background story in this [Hackaday article](
+https://hackaday.com/2024/10/31/supercon-2024-flower-sao-badge-redrawing-in-kicad).
 
 ![](images/badge24-schematic.png)
 ![](images/badge24-pcb-top.png)
